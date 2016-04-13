@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./grammaticilatin05hagagoog_0009.png"; bbox 0 0 3904 5556; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 591 2165 1728 2327">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 591 2165 1728 2327">
+     <span class='ocr_line' id='line_1_1' title="bbox 591 2165 1728 2327; baseline 0.003 -59"><span class='ocrx_word' id='word_1_1' title='bbox 591 2165 1051 2327; x_wconf 78' lang='lat' dir='ltr'>GODOFREDO</span> <span class='ocrx_word' id='word_1_2' title='bbox 1090 2169 1566 2270; x_wconf 83' lang='lat' dir='ltr'><strong>BERNHARDY</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1718 2227 1728 2250; x_wconf 75' lang='lat'>=</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 791 2493 1263 2892">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 791 2493 1263 2892">
+     <span class='ocr_line' id='line_1_2' title="bbox 791 2493 1263 2568; baseline 0.002 -1"><span class='ocrx_word' id='word_1_4' title='bbox 791 2493 801 2504; x_wconf 85' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_5' title='bbox 892 2493 1145 2568; x_wconf 79' lang='lat' dir='ltr'><strong>COLLEGAE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1175 2495 1263 2568; x_wconf 81' lang='lat' dir='ltr'><strong>SVO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1057 2817 1099 2892; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1057 2817 1099 2892; x_wconf 90' lang='lat' dir='ltr'><strong>D.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 824 3137 1340 3224">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 824 3137 1340 3224">
+     <span class='ocr_line' id='line_1_4' title="bbox 824 3137 1340 3224; baseline 0.006 -3"><span class='ocrx_word' id='word_1_8' title='bbox 824 3137 1149 3222; x_wconf 78' lang='lat' dir='ltr'>HENRICVS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1183 3139 1340 3224; x_wconf 85' lang='lat' dir='ltr'><strong>KEIL</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1956 5556">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1956 5556">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1956 5556; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1956 5556; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
